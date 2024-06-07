@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "g711.c": "cpp",
+        "*.tpp": "cpp"
+    }
+}
